@@ -21,7 +21,7 @@ This system helps clinics manage daily operations efficiently and digitally.
 
 Frontend:
 - React / HTML / CSS / JavaScript
-- 
+  
 ---
 
 ## 🧠 System Workflow
